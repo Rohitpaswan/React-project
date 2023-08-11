@@ -8,7 +8,7 @@ import ContextProvider from './Context/ContextProvider.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
  
-<BrowserRouter>
+<BrowserRouter basename='/React-project'>
  
  
     
